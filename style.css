@@ -1,0 +1,22 @@
+.bg-dark-custom {
+    background-color: #0a1e34;
+}
+
+.contenitore-custom {
+    height: 100vh;
+}
+
+header {
+    height: 70px;
+}
+
+main {
+    height: calc(100% - 70px);
+}
+
+#side-bar {
+    background-image: url("img/sidebar-bg.png");
+    background-repeat: no-repeat;
+    background-size: cover;
+    height: 100%;
+}
